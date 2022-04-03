@@ -1,0 +1,19 @@
+.filter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    margin: 1rem 0;
+    background-color: #4b4b4b;
+}
+.select{
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #f6f6f6;
+    background-color: #453b4a;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+    align-items: center;
+}
